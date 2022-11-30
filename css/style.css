@@ -1,0 +1,257 @@
+body {
+  background-color: wheat;
+}
+
+img {
+  border-radius: 50%;
+  align-items: center;
+}
+
+h1 {
+  width: 60%;
+  color: brown;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+h1.name {
+  width: 60%;
+  color: darksalmon;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+#btnObjetivo {
+  box-sizing: border-box;
+  margin-top: 40px;
+  margin-right: 15px;
+  width: 125px;
+  height: 125px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3),
+    2px 2px 4px rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 50%;
+  background: darksalmon;
+  border: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+#btnContato {
+  box-sizing: border-box;
+  margin-top: 40px;
+  margin-right: 15px;
+  width: 125px;
+  height: 125px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3),
+    2px 2px 4px rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 50%;
+  background: darksalmon;
+  border: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+#btnPerfil {
+  box-sizing: border-box;
+  margin-top: 40px;
+  margin-right: 15px;
+  width: 125px;
+  height: 125px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3),
+    2px 2px 4px rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 50%;
+  background: darksalmon;
+  border: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+#btnFormacao {
+  box-sizing: border-box;
+  margin-top: 40px;
+  margin-right: 15px;
+  width: 125px;
+  height: 125px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3),
+    2px 2px 4px rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 50%;
+  background: darksalmon;
+  border: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+#btnExperiencia {
+  box-sizing: border-box;
+  margin-top: 40px;
+  margin-right: 15px;
+  width: 125px;
+  height: 125px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3),
+    2px 2px 4px rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 50%;
+  background: darksalmon;
+  border: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+#btnCursos {
+  box-sizing: border-box;
+  margin-top: 40px;
+  margin-right: 15px;
+  width: 125px;
+  height: 125px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3),
+    2px 2px 4px rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 50%;
+  background: darksalmon;
+  border: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+.btnGitHub {
+  box-sizing: border-box;
+  margin-top: 40px;
+  margin-right: 15px;
+  width: 125px;
+  height: 125px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3),
+    2px 2px 4px rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 50%;
+  background: darksalmon;
+  border: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+#btnContato:hover {
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+#btnObjetivo:hover {
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+#btnPerfil:hover {
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+#btnFormacao:hover {
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+#btnExperiencia:hover {
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+#btnCursos:hover {
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+.btnGitHub:hover {
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3),
+    inset 2px 2px 4px rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  color: black;
+}
+
+p#objetivo {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 10%;
+  margin-top: 0.01px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+p#contato {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 10%;
+  margin-top: 0.01px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+p#perfil {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 10%;
+  margin-top: 0.01px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+p#formacao {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 10%;
+  margin-top: 0.01px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+p#experiencia {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 10%;
+  margin-top: 0.01px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+p#cursos {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 10%;
+  margin-top: 0.01px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
